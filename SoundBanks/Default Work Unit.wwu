@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2A627180-36D1-4E8C-8ADC-677F67267432}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{2A627180-36D1-4E8C-8ADC-677F67267432}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Soundbank" ID="{5DAE2E69-D17F-48EC-84C9-D0894A9EB96A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Reverb" ID="{44565728-B6DA-4082-8A55-737D3183E189}" WorkUnitID="{D7378A9D-59F3-4653-B337-0FEFAE35C72C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Button2" ID="{0E48015C-7BC8-4159-BE1F-A738D16851A6}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Start_of_round_dean" ID="{86C3813B-4151-4186-85CA-0F4DA4A9ACCC}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Wood" ID="{43821E2C-1EAD-41B1-8AD7-6F3C4A8E1674}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dean_1min" ID="{7C630CC9-5B41-42F5-AD7F-15A91F533EA6}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Grass" ID="{C839F34F-45A7-42FE-9BEE-CB7246C0887A}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps" ID="{8BA8CDE3-360F-43B4-A927-A125854991A5}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Tile_Concrete" ID="{D4BA4E43-878E-453B-9E14-54078E8661A0}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Abed_KS" ID="{D33AC845-1860-4546-A59D-A2D7B2A8F63E}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jeff_KS" ID="{47CC87EC-9646-45D5-BC35-301B1BE13D99}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pistol_Reload" ID="{EF67F4E2-65CE-4637-BD1B-23993D41BCF0}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Round_Button" ID="{BE8A2EA0-7FBE-472D-8D86-8C4F9A8F1368}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Flesh" ID="{FDEC8A6D-DB4C-4737-9D88-21FEA479D05D}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Annie_KS" ID="{402940B3-47F9-4759-A23F-6226188A0C15}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Land_fps" ID="{387BF8B4-068B-4842-B399-8224A2B3F680}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Start_Music" ID="{B3648B2A-7CD7-484D-908C-6FCABA49308A}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Running" ID="{CE855685-6391-488B-B915-1F5E9788A348}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Random_Ammo_Drop" ID="{820EA8D4-61B5-4A11-AC00-38E11AF70A0B}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pillow_Melee" ID="{4520947F-CD5E-4A87-9360-66BA7A1200B9}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps_FPS" ID="{50804D6C-7962-4ABB-912F-D0D7EA2D466A}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Sudden_Death_dean" ID="{7EDD2E00-C3EB-4B1F-9FA7-580EE03E2AE4}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Land" ID="{02B9B1B2-D56C-4B8C-9EAE-295521A42CEF}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Glass" ID="{15198D9D-0048-4BA2-9523-20D32E3261BB}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pierce_KS" ID="{CEAE29D5-4A28-4BED-B718-DA595D4A3F7C}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Troy_KS" ID="{2BC03675-7A88-4C09-AE21-242C754914CF}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Shirley_KS" ID="{96178414-4B67-4C79-9B7C-520B264E9905}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Metal" ID="{D0F3FE53-C439-4C8F-A9EF-B25093438EDF}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pistol_Equip" ID="{331998B7-69A3-4CA8-9B5C-752AA4CD7DFC}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Carpet" ID="{00DBE56E-E60E-4D17-868E-054719388D04}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Random_Ammo" ID="{B99BD47E-297B-4D54-B148-910D96C4586B}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="End_of_round" ID="{08730395-A840-4DA8-8C95-FE22B8C90F1E}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Running_FPS" ID="{F1E2FE18-6107-4DD9-BA96-0DF42D496151}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Chang_KS" ID="{FC9B2859-8C6C-4DDD-9A0A-F049B39ADB68}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Splat_Plastic" ID="{18034F06-4B11-4DEF-992D-0A15ADC7FF6F}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Britta_KS" ID="{8CAB67BE-5ED6-4E02-9982-A148CA76EF44}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Forward_Button" ID="{0D785A50-630B-4E2F-858F-325A5903F030}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Menu_Button1" ID="{722550FB-6F74-4E90-824B-E456A2A937B9}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PB_Bounce" ID="{F7A88CD6-6208-4EC0-9681-9B1C6A23F21B}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pistol_Shoot" ID="{6B9C7C6A-6812-4F00-8D5F-1047CE645701}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Kill_Enemy" ID="{4368AFEA-0269-4FB2-8D24-EFC860AF1924}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Loose_ammo_pickup" ID="{F287D74C-CA39-4FD0-A072-8B927CE6A37C}" WorkUnitID="{DAABEE7B-8021-45B8-AA56-A42DDAB7E6A7}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
